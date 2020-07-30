@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import json
 
-url = 'https://perm.hh.ru/search/vacancy?'
+url = 'https://perm.hh.ru/search/vacancy'
 
 payload = {'area': '72',
            'st': 'searchVacancy',
@@ -16,7 +16,7 @@ headers = {
                   "Safari/537.36"}
 
 result = []
-name, worker_url, company_url, price, description = '','','','',''
+name, worker_url, company_url, price, description = '', '', '', '', ''
 
 page = requests.get(url, params=payload, headers=headers)
 
@@ -32,4 +32,4 @@ for i in soup.findAll('div', class_='vacancy-serp-item'):
     result.append([name, worker_url, company_url, price, description])
 
 with open('result.json', 'w') as f:
-    json.dump([result], f, ensure_ascii=False, indent=1)
+    json.dump(result, f, ensure_ascii=False, indent=1)
