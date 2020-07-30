@@ -7,7 +7,7 @@ url = 'https://perm.hh.ru/search/vacancy?'
 payload = {'area': '72',
            'st': 'searchVacancy',
            'fromSearch': 'true',
-           'text': 'Python'}
+           'text': 'Java'}
 
 headers = {
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -30,5 +30,5 @@ for i in soup.findAll('div', class_='vacancy-serp-item'):
                    'description: ' + i.find('div', class_='g-user-content').text])
 
 print(result)
-with open('text.json', 'w') as f:
-    json.dump([result], f, ensure_ascii=False, indent=0)
+with open('result.json', 'w') as f:
+    json.dump([result], f, ensure_ascii=False, indent=1)

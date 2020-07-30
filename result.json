@@ -1,0 +1,354 @@
+[
+ [
+  [
+   "Name: Java-разработчик",
+   "url: https://perm.hh.ru/vacancy/34677648?query=Java",
+   "company_url: https://perm.hh.ru/employer/3101919",
+   "price: 100 000-120 000 руб.",
+   "description: Участие в анализе и решении задач по развитию или изменению архитектуры информационных систем. Оценка трудоёмкости реализации технических задач. Практический опыт работы разработки на Java от 2-х лет. Опыт работы с реляционными базами данных, знание SQL, PL/SQL. "
+  ],
+  [
+   "Name: Java-разработчик (full stack/Junior)",
+   "url: https://perm.hh.ru/vacancy/37779104?query=Java",
+   "company_url: https://perm.hh.ru/employer/11749",
+   "price: ",
+   "description: JS фреймворки Angular / vue / react. Инструменты непрерывной сборки (CI) TeamCity / Jenkins.Обязательно: Java Core. JavaScript. Базовые знания HTML + CSS. Базовый SQL на уровне написания простых запросов. Понимание клиент-серверной архитектуры. "
+  ],
+  [
+   "Name: Java-разработчик в IT-компанию",
+   "url: https://perm.hh.ru/vacancy/38312710?query=Java",
+   "company_url: https://perm.hh.ru/employer/3101919",
+   "price: 80 000-110 000 руб.",
+   "description: Разработка и поддержка проекта Правительства Москвы по развитию системы сбора, обработки, хранения и публикации данных. Командная разработка и проработка технической...Владение технологиями Java EE, WS, JDBC, JPA, JAXB. Базовое знание SQL. Умение понимать код других разработчиков. Java SE, Java EE. "
+  ],
+  [
+   "Name: Java-разработчик (удаленно)",
+   "url: https://perm.hh.ru/vacancy/38107367?query=Java",
+   "company_url: https://perm.hh.ru/employer/885718",
+   "price: ",
+   "description: Написание инструментов миграции данных. Конфигурирование платформы. JAVA 8, JAVA EE. Взаимодействие с БД через Java API. TomEE. Операционка - Windows.Опыт коммерческой разработки на Java от 1 года. Владение ООП и паттернами проектирования. Высшее техническое либо физико-математическое образование (возможно..."
+  ],
+  [
+   "Name: Java-разработчик",
+   "url: https://perm.hh.ru/vacancy/38295897?query=Java",
+   "company_url: https://perm.hh.ru/employer/4196974",
+   "price: ",
+   "description: IT-Rev - Мы создаем новые цифровые продукты и услуги. Внедряем собственные решения, оказываем услуги заказной разработки и технической поддержки текущих...Уверенное знание Java. Понимание и умение применять принципы ООП/шаблоны проектирования. Хорошее знание реляционных баз данных. Java 8 /11. "
+  ],
+  [
+   "Name: Разработчик Java / Back-End Java Developer",
+   "url: https://perm.hh.ru/vacancy/38299933?query=Java",
+   "company_url: https://perm.hh.ru/employer/6189",
+   "price: ",
+   "description: Технологический стек: Java 8 (на некоторых системах 11), Spring (Core, Boot, Cloud, Security), Hibernate, SQL/PostgreSQL, Docker, OpenShift, Git, BitBucket...Опыт коммерческой разработки на Java от двух лет для Middle, от четырех лет для Senior. Уверенные знания Java Core. "
+  ],
+  [
+   "Name: Java-разработчик",
+   "url: https://perm.hh.ru/vacancy/37782710?query=Java",
+   "company_url: https://perm.hh.ru/employer/3144945",
+   "price: ",
+   "description: DB: Oracle 12, PL/SQL. Разрабатывать программное обеспечение на Java. Проектировать ПО. Участвовать во внедрении ПО. Устранять дефекты. Имеешь опыт разработки на Java от 3 лет. Умеешь разбираться в чужом коде. Имеешь опыт разработки сетевых и клиент-серверных..."
+  ],
+  [
+   "Name: Java Developer",
+   "url: https://perm.hh.ru/vacancy/36883056?query=Java",
+   "company_url: https://perm.hh.ru/employer/3101919",
+   "price: 80 000-120 000 руб.",
+   "description: Разработка внутренних и интеграционных веб-сервисов (Java, Kotlin). Взаимодействие с разработчиками, контроль качества кода, code review, релиз менеджмент. Хороший уровень знания Java Core. Знание Spring Framework. Знание SQL (Oracle / PostgreSQL). Опыт работы с Git, Maven, Unix-системами. "
+  ],
+  [
+   "Name: Middle Java developer",
+   "url: https://perm.hh.ru/vacancy/36359611?query=Java",
+   "company_url: https://perm.hh.ru/employer/3920026",
+   "price: до 80 000 руб.",
+   "description: Мы занимается разработкой и внедрением \"под ключ\" (от стадии проектирования, до разработки и тестирования, заканчивая поддержкой) крупных систем для государственных...Уверенное знание Java Core, Java SE8. Опыт использования Spring Framework. Опыт использования JPA, Hibernate. Опыт разработки RESTfull API. "
+  ],
+  [
+   "Name: Senior Java developer",
+   "url: https://perm.hh.ru/vacancy/34557259?query=Java",
+   "company_url: https://perm.hh.ru/employer/3920026",
+   "price: до 140 000 руб.",
+   "description: Мы занимается разработкой и внедрением \"под ключ\" (от стадии проектирования, до разработки и тестирования, заканчивая поддержкой) крупных систем для государственных...Опыт программирования на Java. Опыт использования Spring Framework. Опыт использования JPA, Hibernate. Опыт разработки веб-сервисов (SOAP, REST). "
+  ],
+  [
+   "Name: Java разработчик",
+   "url: https://perm.hh.ru/vacancy/38165333?query=Java",
+   "company_url: https://perm.hh.ru/employer/2404589",
+   "price: ",
+   "description: Масштабировать существующие сервисы. Разрабатывать план развертывания системы. Создавать новую функциональность. Участвовать в создании документации, развитии архитектуры проекта, планировании релизов.Знание Java SE: collections, IO, etc. Понимание и навыки multithreaded / concurrent programming. Опыт с Spring. Знание SQL и опыт работы..."
+  ],
+  [
+   "Name: Java-разработчик",
+   "url: https://perm.hh.ru/vacancy/38223714?query=Java",
+   "company_url: https://perm.hh.ru/employer/2073271",
+   "price: ",
+   "description: Участие в проекте по развитию и сопровождению электронного документооборота крупного федерального ведомства с августа до конца этого года. Java 1.8. Spring (Boot, Web, Security, WS), Apache Tomcat, PostgreSQL. Опыт интеграции со сторонними системами (SOAP/RESTful веб сервисы..."
+  ],
+  [
+   "Name: Senior Java developer",
+   "url: https://perm.hh.ru/vacancy/37278705?query=Java",
+   "company_url: https://perm.hh.ru/employer/618292",
+   "price: ",
+   "description: Разработка сложной высоконагруженной платежной платформы. Участие в проектировании модулей и компонент системы. Работа над улучшением производительности создаваемого решения. Опыт разработки высоконагруженных решений на Java/Kotlin. Глубокое знание Java SE. Опыт создания Web-приложений, понимание соответствующего стека технологий Java..."
+  ],
+  [
+   "Name: Java Developer",
+   "url: https://perm.hh.ru/vacancy/35538328?query=Java",
+   "company_url: https://perm.hh.ru/employer/1150094",
+   "price: до 2 500 USD",
+   "description: Работа с AWS/GCP/Azure и другими API. Разработка бэкэнда на Google App Engine (Java). Разработка Java REST-сервисов.Опыт разработки enterprise-систем на Java, а также опыт разработки с использованием реляционных и NoSQL БД. Опыт работы с VCS..."
+  ],
+  [
+   "Name: Разработчик Java/Spring",
+   "url: https://perm.hh.ru/vacancy/36372301?query=Java",
+   "company_url: https://perm.hh.ru/employer/52511",
+   "price: ",
+   "description: Разработка веб-сервисов и веб-приложений. Разработка микросервисов. Разработка структуры БД. Java 8, Spring Boot 2+, Spring framework 4...Коммерческий опыт разработки на Java, Spring (Boot, MVC, Security). Опыт работы с реляционными СУБД. Умение работать с системой контроля версий..."
+  ],
+  [
+   "Name: Java-разработчик",
+   "url: https://perm.hh.ru/vacancy/37719619?query=Java",
+   "company_url: https://perm.hh.ru/employer/11749",
+   "price: ",
+   "description: Развитие проекта в сфере оказания государственных услуг. Проектирование архитектуры решения. Поддержка инфраструктуры. Настройка процессов CI/CD.Опыт разработки на Java от 3х лет. Глубокие знания и практический опыт использования Java в нагруженных многопоточных приложениях, Hibernate..."
+  ],
+  [
+   "Name: Java-разработчик",
+   "url: https://perm.hh.ru/vacancy/38092618?query=Java",
+   "company_url: https://perm.hh.ru/employer/47858",
+   "price: ",
+   "description: Для задач DevOps применяем GitLab или Jenkins и наш собственный инструмент развертывания. Основные языки программирования: Java, С#; базы данных: Oracle...Необходимые практические знания и навыки: Опыт программирования на Java, Стек Spring(Spring Boot), JUnit, опыт работы с БД, знание шаблонов..."
+  ],
+  [
+   "Name: Разработчик Java / Spring",
+   "url: https://perm.hh.ru/vacancy/37836089?query=Java",
+   "company_url: https://perm.hh.ru/employer/154",
+   "price: 68 000-109 000 руб.",
+   "description: Работать в проектах по SCRUM в составе распределенных команд.Опыт разработки на любом современном языке. СУБД Oracle/MS SQL Server/PostgreSQL. Подходы к проектированию микросервисов. Умение быстро учиться и..."
+  ],
+  [
+   "Name: Java-разработчик",
+   "url: https://perm.hh.ru/vacancy/37864438?query=Java",
+   "company_url: https://perm.hh.ru/employer/4019586",
+   "price: от 80 000 руб.",
+   "description: Разработка Backend проекта (api + бд).Опыт разработки клиент-серверных приложений. Уверенные знания JAVA EE. Опыт работы с базами данных."
+  ],
+  [
+   "Name: Java-разработчик",
+   "url: https://perm.hh.ru/vacancy/37908011?query=Java",
+   "company_url: https://perm.hh.ru/employer/3144945",
+   "price: ",
+   "description: Java SE/ЕЕ. Хороших навыков разработки на технологиях Java. Опыта работы с Javascript, знание HTML , CSS. Понимания архитектуры многопоточных приложений. "
+  ],
+  [
+   "Name: Java Developer",
+   "url: https://perm.hh.ru/vacancy/36738903?query=Java",
+   "company_url: https://perm.hh.ru/employer/1084619",
+   "price: ",
+   "description: Команды и задачи. Команда Integrations. Задача команды — интеграция нашего сервиса с как можно большим количеством других продуктов. В одних случаях...Отличное знание Java 8: знать реализацию базовых структур данных, понимать, как работает сборщик мусора. Опыт работы с протоколами: HTTP, SSL..."
+  ],
+  [
+   "Name: Key Java разработчик",
+   "url: https://perm.hh.ru/vacancy/37771825?query=Java",
+   "company_url: https://perm.hh.ru/employer/6769",
+   "price: ",
+   "description: Разработка серверных приложений на Java. Рефакторинг текущей архитектуры. Дизайн, разработка и внедрение выбранных решений. Оптимизация и рефакторинг кода. Ревью кода.Опыт работы от 4-х лет. Хорошие знания Java Core. Умение писать и оптимизировать SQL-запросы. Уверенное знание Spring Framework. "
+  ],
+  [
+   "Name: Java-разработчик",
+   "url: https://perm.hh.ru/vacancy/37791087?query=Java",
+   "company_url: https://perm.hh.ru/employer/44272",
+   "price: ",
+   "description: Создание и поддержка REST-сервисов. Базы данных: MariaDB, MongoDB, ElasticSearch. Языки разработки: Java (в основном), некоторые части сервиса написаны на...Опыт разработки backend-приложений на Java. Умение работать с реляционными СУБД. Практический опыт работы с операционными системами семейства *nix. "
+  ],
+  [
+   "Name: Key Java разработчик",
+   "url: https://perm.hh.ru/vacancy/37752004?query=Java",
+   "company_url: https://perm.hh.ru/employer/6769",
+   "price: ",
+   "description: Разработка серверных приложений на Java. Рефакторинг текущей архитектуры. Дизайн, разработка и внедрение выбранных решений. Оптимизация и рефакторинг кода. Ревью кода.Опыт работы от 4-х лет. Хорошие знания Java Core. Умение писать и оптимизировать SQL-запросы. Уверенное знание Spring Framework. "
+  ],
+  [
+   "Name: Стажер-разработчик Java",
+   "url: https://perm.hh.ru/vacancy/37544168?query=Java",
+   "company_url: https://perm.hh.ru/employer/4178491",
+   "price: от 20 000 руб.",
+   "description: Automation business processes in Salesforce. Develop unit tests. Refactoring the existing code.Java or .NET knowledge ( the syntax of these languages is similar to Apex syntax). Real experience is your advantage. "
+  ],
+  [
+   "Name: Java Full-stack разработчик",
+   "url: https://perm.hh.ru/vacancy/38231010?query=Java",
+   "company_url: https://perm.hh.ru/employer/2542802",
+   "price: 100 000-150 000 руб.",
+   "description: Разработка и сопровождение комплекса программных средств для работы с нормативно-справочной информацией предприятия. Master Data Management. Рефакторинг и поддержка существующего...Креативность, ответственность. Знания Java технологий и ООП. Знание javascript, Опыт работы с одним из фреймворков ExtJs/Angular/React. "
+  ],
+  [
+   "Name: Java - разработчик (Middle+)",
+   "url: https://perm.hh.ru/vacancy/37814911?query=Java",
+   "company_url: https://perm.hh.ru/employer/1993100",
+   "price: ",
+   "description: ...и микросервисов - Java 8, Spring. Рендеринг интерфейса – ReactJS, TypeScript. Инструменты для сборки приложения – Webpack, Maven. Компоненты EssentialJS - java-script библиотека...Какой опыт нам важен: Практический опыт работы разработки на Java от 2-х лет. Опыт работы базами данных, знание SQL..."
+  ],
+  [
+   "Name: Front-end разработчик",
+   "url: https://perm.hh.ru/vacancy/34557239?query=Java",
+   "company_url: https://perm.hh.ru/employer/3920026",
+   "price: ",
+   "description: Мы занимается разработкой и внедрением \"под ключ\" (от стадии проектирования, до разработки и тестирования, заканчивая поддержкой) крупных систем для государственных...Опыт работы с JavaScript, TypeScript, CSS3, навыки верстки с использованием HTML5. Приветствуется опыт работы с: Bootstrap. React. Angular. "
+  ],
+  [
+   "Name: Android разработчик",
+   "url: https://perm.hh.ru/vacancy/37723274?query=Java",
+   "company_url: https://perm.hh.ru/employer/823393",
+   "price: ",
+   "description: Разработка приложений для Android устройств. - Разработка архитектуры приложения. Активный сезонный отдых: горные лыжи, снегоходы, сплавы, стрельба из арбалета, вейкбординг - это...Опыт разработки для устройств Android. - Знание языка программирования Java/Kotlin. - Знание ООП, паттернов проектирования. - Знание Android SDK 16+, AndroidX..."
+  ],
+  [
+   "Name: Web-разработчик",
+   "url: https://perm.hh.ru/vacancy/37346799?query=Java",
+   "company_url: https://perm.hh.ru/employer/128130",
+   "price: ",
+   "description: Разработка мобильных и Web-приложений для ERP-системы IT-Предприятие.Высшее профессиональное образование по специальностям, связанным с проектированием, программированием информационных систем. Обязательно знание Java, Android SDK. Опыт работы с архитектурой..."
+  ],
+  [
+   "Name: Android developer",
+   "url: https://perm.hh.ru/vacancy/38116696?query=Java",
+   "company_url: https://perm.hh.ru/employer/3920026",
+   "price: до 80 000 руб.",
+   "description: Мы занимается разработкой и внедрением \"под ключ\" (от стадии проектирования, до разработки и тестирования, заканчивая поддержкой) крупных систем для государственных...Опыт разработки для устройств Android. Знание языка программирования Java/Kotlin. Знание ООП, паттернов проектирования. Знание Android SDK 29+, AndroidX..."
+  ],
+  [
+   "Name: Android разработчик",
+   "url: https://perm.hh.ru/vacancy/38252742?query=Java",
+   "company_url: https://perm.hh.ru/employer/44272",
+   "price: ",
+   "description: Разработка приложения для Android TV, Android STB и Android смартфонов и планшетов. Ответственность за качество кода и бесперебойную работу сервиса. Общий опыт разработки на java от 2 лет, опыт разработки мобильных приложений под Android от 1 лет. Знание Android SDK..."
+  ],
+  [
+   "Name: Android разработчик",
+   "url: https://perm.hh.ru/vacancy/34714917?query=Java",
+   "company_url: https://perm.hh.ru/employer/2076464",
+   "price: 120 000-200 000 руб.",
+   "description: Проектирование и разработка мобильного приложения для Android. Поддержка, развитие нового функционала. Рефакторинг Android приложения. Участие в планировании и постановке задач...Опыт в написании кастомных View. Понимание и умение использовать рефлексии в java. Умение программировать на низком уровне: потоки, соккеты, и..."
+  ],
+  [
+   "Name: Стажер по нагрузочному тестированию",
+   "url: https://perm.hh.ru/vacancy/38293613?query=Java",
+   "company_url: https://perm.hh.ru/employer/139",
+   "price: ",
+   "description: Разработка, доработка, настройка и отладка средств нагрузочного тестирования. Подготовка тестовых данных и проведение запусков тестов, подготовка отчетов.Имеешь высшее / неполное высшее техническое образование. Есть базовые знания по Java и (или) C/C++ /C#/Golang.(наличие минимального опыта..."
+  ],
+  [
+   "Name: Программист-разработчик",
+   "url: https://perm.hh.ru/vacancy/37923734?query=Java",
+   "company_url: https://perm.hh.ru/employer/1522530",
+   "price: 45 000-55 000 руб.",
+   "description: Разработка и поддержка приложений C#.Опыт разработки мобильных приложений (Android, Xamarin, Java). Навыки поддержки сайтов (php+js+mysql), CSS, CMS – Wordpress. Опыт взаимодействия разработки и поддержки баз..."
+  ],
+  [
+   "Name: Middle / Senior BackEnd Developer (Java)",
+   "url: https://perm.hh.ru/vacancy/37574816?query=Java",
+   "company_url: https://perm.hh.ru/employer/1993100",
+   "price: ",
+   "description: ...и микросервисов - Java 8, Spring. Рендеринг интерфейса – ReactJS, TypeScript. Инструменты для сборки приложения – Webpack, Maven. Компоненты. EssentialJS - java-script библиотека...Практический опыт работы разработки на Java от 2-х лет. Опыт работы базами данных, знание SQL, PL/SQL, умение писать..."
+  ],
+  [
+   "Name: Разработчик",
+   "url: https://perm.hh.ru/vacancy/38315472?query=Java",
+   "company_url: https://perm.hh.ru/employer/2665536",
+   "price: 25 000-35 000 руб.",
+   "description: SIMPL - IT компания, разработчик решений в области информационно-аналитических систем. Основная деятельность SIMPL связана с проектированием и внедрением информационных аналитических..."
+  ],
+  [
+   "Name: Android Разработчик (remote)",
+   "url: https://perm.hh.ru/vacancy/38251841?query=Java",
+   "company_url: https://perm.hh.ru/employer/2657840",
+   "price: 50 000-120 000 руб.",
+   "description: знание Kotlin или Java. * знание стандартных фреймворков и SDK. * самое важное – умение и желание получать новые знания необходимые для работы. "
+  ],
+  [
+   "Name: Middle / Senior Android developer",
+   "url: https://perm.hh.ru/vacancy/37935055?query=Java",
+   "company_url: https://perm.hh.ru/employer/1049556",
+   "price: ",
+   "description: Разработка систем дистанционного банковского обслуживания (мобильный банк) на Android.Опыт разработки для платформы Android от 2-х лет. Знание Android SDK, Java, Kotlin, Rest/SOAP, Google Maps API, SQLite. "
+  ],
+  [
+   "Name: Специалист по автоматизированному тестированию",
+   "url: https://perm.hh.ru/vacancy/34783284?query=Java",
+   "company_url: https://perm.hh.ru/employer/1993100",
+   "price: ",
+   "description: Проработка сценариев тестирования. Написание и поддержка автотестов на базе Java. Участие в комплексном тестировании компонентов системы.Опыт тестирования веб-приложений. Знание методологий тестирования ПО. Опыт написания тест-кейсов. Опыт работы с библиотекой Selenium. Базовые знания SQL. "
+  ],
+  [
+   "Name: Системный/младший администратор (DevOps / Поддержка)",
+   "url: https://perm.hh.ru/vacancy/38212195?query=Java",
+   "company_url: https://perm.hh.ru/employer/2404589",
+   "price: ",
+   "description: Фронтенд: JavaScript, ReactJS, ReactNative. Бэкенд: PHP + Java + PostgresSQL + MSSQL. Инфраструктура: Centos/RedHat + немного Windows. Опыт использования и желание развиватьcя в администрировании GNU/Linux дистрибутивов. Терпимое отношение к Windows. Базовые знания по работе сетей. "
+  ],
+  [
+   "Name: Специалист по тестированию ПО",
+   "url: https://perm.hh.ru/vacancy/38044568?query=Java",
+   "company_url: https://perm.hh.ru/employer/2446838",
+   "price: 35 000-70 000 руб.",
+   "description: Разработка программ и скриптов автоматизированного тестирования (groovy в SOAP UI, javascript в Postman, самостоятельные программы на java или python). Умение создавать небольшие скрипты на одном из современных языков программирования: javascript / python / groovy / java. Опыт работы в команде по гибкой..."
+  ],
+  [
+   "Name: Специалист по тестированию (QA-Engineer)",
+   "url: https://perm.hh.ru/vacancy/38285134?query=Java",
+   "company_url: https://perm.hh.ru/employer/3920026",
+   "price: ",
+   "description: Определять область тестирования и описывать ее в виде тест-кейсов. Заниматься функциональным тестированием веб приложений и компонентов. Совершенствовать навыки в...Опыт функционального тестирования (от полугода). Навыки тестирования веб-приложений. Опыт составления сценариев и тест-кейсов. Опыт работы с СУБД, базовые..."
+  ],
+  [
+   "Name: Fullstack разработчик",
+   "url: https://perm.hh.ru/vacancy/38240022?query=Java",
+   "company_url: https://perm.hh.ru/employer/3144945",
+   "price: ",
+   "description: Ищем Fullstack разработчика на направление разработки систем поддержки продаж, мы делаем информационные системы с которыми работают специалисты заказчика (формирование заявок...Java SE/ЕЕ. JavaScript, JQuery, VueJS. MsSQL. Apache Tomcat, Jetty. Понимания объектно-ориентированного программирования. Опыта разработки приложений на Java. "
+  ],
+  [
+   "Name: Ведущий программист DB Oracle",
+   "url: https://perm.hh.ru/vacancy/38270035?query=Java",
+   "company_url: https://perm.hh.ru/employer/44272",
+   "price: ",
+   "description: Разработка программного обеспечения в рамках проекта по диджитализации контакт-центров с целью повышения эффективности деятельности. Оценка трудоёмкости выполнения задач. Опыт анализа и оптимизации сложных SQL-запросов. Опыт успешной реализации проектов. Базовые знания Java и JavaScript. Базовые знания PHP, HTML..."
+  ],
+  [
+   "Name: QA инженер / Тестировщик ПО",
+   "url: https://perm.hh.ru/vacancy/37834761?query=Java",
+   "company_url: https://perm.hh.ru/employer/3101919",
+   "price: 80 000-100 000 руб.",
+   "description: Самостоятельное проведение функционального, регрессионного, интеграционного и других видов тестирования, необходимых для обеспечения качества на проекте. Работа в продуктовой команде в...Опыт работы с системами сбора логов в kibana. Знание основ автоматизации (умение писать тесты на java). Основы тестирования (виды, практики..."
+  ],
+  [
+   "Name: Frontend-разработчик (Middle+)",
+   "url: https://perm.hh.ru/vacancy/36745720?query=Java",
+   "company_url: https://perm.hh.ru/employer/1993100",
+   "price: ",
+   "description: ...и микросервисов - Java 8, Spring. Рендеринг интерфейса – ReactJS, TypeScript. Инструменты для сборки приложения – Webpack, Maven. Компоненты. EssentialJS - java-script библиотека...6 лет опыта и репутация надежного партнера в бизнесе. 50+ успешно завершенных проектов. Платформа применима не только в банковской..."
+  ],
+  [
+   "Name: Инженер-программист",
+   "url: https://perm.hh.ru/vacancy/34129980?query=Java",
+   "company_url: https://perm.hh.ru/employer/978368",
+   "price: ",
+   "description: Поддержка и программирование в 1С (8.3 обычные формы), ПО Фронтол (кассовая система). Настройка и поддержка торгового оборудования (сканеры...Вашим преимуществом будет: умение программировать в 1С, знание какого-либо языка программирования кроме 1С (python, javascript, c#, java)."
+  ],
+  [
+   "Name: Руководитель отдела тестирования (QA Lead)",
+   "url: https://perm.hh.ru/vacancy/38148171?query=Java",
+   "company_url: https://perm.hh.ru/employer/3920026",
+   "price: ",
+   "description: Организовывать и контролировать процессы тестирования в проектах компании. Осуществлять подбор QA-инженеров на проекты компании. Повышать уровень компетенций участников команды. Опыт функционального тестирования (от 3 лет). Опыт управления группой тестирования (от полугода). Знание и понимание методологии тестирования. Понимание бизнес-процессов..."
+  ],
+  [
+   "Name: Senior Frontend Engineer (Canvas Widgets)",
+   "url: https://perm.hh.ru/vacancy/37939660?query=Java",
+   "company_url: https://perm.hh.ru/employer/1084619",
+   "price: ",
+   "description: As a Senior Frontend Engineer at Miro, you'll be an impactful contributor to the technical design and development of...Maven, Git, Jira, Confluence, Bamboo, BitBucket. Work on meaningful things. We mean it. If something doesn’t make sense to..."
+  ]
+ ]
+]
