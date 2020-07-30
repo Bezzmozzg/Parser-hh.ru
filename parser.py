@@ -15,7 +15,6 @@ headers = {
                   "Chrome/84.0.4147.89"
                   "Safari/537.36"}
 
-offers = []
 result = []
 
 page = requests.get(url, params=payload, headers=headers)
