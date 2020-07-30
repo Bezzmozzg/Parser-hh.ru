@@ -28,6 +28,5 @@ for i in soup.findAll('div', class_='vacancy-serp-item'):
                    'price: ' + i.find('div', class_='vacancy-serp-item__sidebar').text,
                    'description: ' + i.find('div', class_='g-user-content').text])
 
-print(result)
 with open('result.json', 'w') as f:
     json.dump([result], f, ensure_ascii=False, indent=1)
