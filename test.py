@@ -28,15 +28,7 @@ for i in soup.findAll('div', class_='vacancy-serp-item'):
                    'company_url: https://perm.hh.ru' + i.find('a', class_="bloko-link bloko-link_secondary").get('href'),
                    'price: ' + i.find('div', class_='vacancy-serp-item__sidebar').text,
                    'description: ' + i.find('div', class_='g-user-content').text])
-#     if len(i.find('div', class_="vacancy-serp-item__sidebar").text) > 5:
-#         with_price.append(" ".join(i.text.split()))
-#     else:
-#         without_price.append(" ".join(i.text.split()))
 
 print(result)
 with open('text.json', 'w') as f:
     json.dump([result], f, ensure_ascii=False, indent=0)
-
-
-
-
